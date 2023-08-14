@@ -38,9 +38,8 @@
 }
 
 .select option {
-  font-size: 18px;
-  font-family: monospace;
-  color: #a0a0a0 !important;
+
+  color: #000 !important;
 
 }
 
